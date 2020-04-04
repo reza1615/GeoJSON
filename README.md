@@ -1,0 +1,2 @@
+# GeoJSON
+GeoJSON map files
